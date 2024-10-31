@@ -96,7 +96,7 @@ This part oddly enough renders very similar results every time, how ever it must
 
 The conclusions I can make from playing around with this set of rules is that complexity can arise from simple rules, which is just a beautiful thing about our world that we can learn through mathematics, also to answer my own questions starting with the first one is that we get a very ordered fractal that reflects the frame used to generate it, like a triangle, a square or a pentagon, etc. The funny thing happens when we add restrictions which I think add some order to the game, we get a less ordered fractal like when we run the restricted version of the dynamic with the square this answers question 2, and to answer the last two questions I can say that at least if we are just running the restricted version of the process our fractals become very similar, without a lot of distinctive features but they are still fractals which is interesting.<br>
 
-Now if you would like to recreate my results here you can find the files that I used to generate them, I wrote all of the code usign only the rules of the game, thank you for reading this and I hope you have as much fun as I did with this subject.
+Now if you would like to recreate my results you can find the files that I used to generate them in this respository, the python files have the code needed to create animations, the jupyter notebooks have all of the experiments I did in order to create this repository, I wrote all of the code usign only the rules of the game, thank you for reading this and I hope you have as much fun as I did with this subject.
 
 With kind regards, 
 
